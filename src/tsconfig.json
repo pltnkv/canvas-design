@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "module": "AMD",
+    "target": "ES6",
+    "strict": true,
+    "outDir": "../target/static/"
+  },
+  "include": ["./**/*"]
+}
